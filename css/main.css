@@ -33,7 +33,7 @@ ul li:hover{
   background-color:#beecea;
 }
 
-ul li.focused{
+ul li.active{
   color:#fff;
   background-color:#41c7c2;
 }
